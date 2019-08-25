@@ -1,12 +1,4 @@
 [{
-        "name": "The Evolution (Light)",
-        "author": "Tantriudz",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Light.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Evo-X_2.0_Light.jpg",
-        "downloadable": true,
-        "dimensions": "1440×2960"
-    },
-    {
         "name": "The Evolution (Dark)",
         "author": "Tantriudz",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Dark.png",
@@ -15,28 +7,27 @@
         "dimensions": "1440×2960"
     },
     {
-        "name": "Neon",
+        "name": "The Evolution (Light)",
+        "author": "Tantriudz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Light.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Evo-X_2.0_Light.jpg",
+        "downloadable": true,
+        "dimensions": "1440×2960"
+    },
+    {
+        "name": "Shape (Dark)",
         "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Neon.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Neon.jpg",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapeDark.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/ShapeDark.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
     },
     {
-        "name": "Font (Light)",
+        "name": "Shape (Light)",
         "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Font.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Font.jpg",
-        "downloadable": true,
-        "dimensions": "2160×4492",
-        "copyright": "CC BY-SA 4.0"
-    },
-    {
-        "name": "Font (Dark)",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontDark.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/FontDark.jpg",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Shape.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Shape.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
@@ -51,21 +42,238 @@
         "copyright": "CC BY-SA 4.0"
     },
     {
-        "name": "Shape (Light)",
+        "name": "Font (Dark)",
         "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Shape.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Shape.jpg",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontDark.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/FontDark.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
     },
     {
-        "name": "Shape (Dark)",
+        "name": "Font (Light)",
         "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapeDark.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/ShapeDark.jpg",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Font.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Font.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
+    },
+    {
+        "name": "Neon",
+        "author": "Wenlin Shen",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Neon.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Neon.jpg",
+        "downloadable": true,
+        "dimensions": "2160×4492",
+        "copyright": "CC BY-SA 4.0"
+    },
+    {
+        "name": "Cortezz 26",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz26.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz26.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 25",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz25.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz25.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 24",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz24.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz24.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 23",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz23.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz23.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 22",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz22.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz22.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 21",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz21.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz21.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 20",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz20.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz20.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 19",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz19.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz19.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 18",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz18.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz18.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 17",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz17.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz17.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 16",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz16.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz16.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 15",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz15.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz15.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 14",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz14.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz14.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 13",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz13.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz13.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 12",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz12.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz12.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 11",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz11.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz11.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 10",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz10.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz10.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 09",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz9.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz9.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 08",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz8.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz8.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 07",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz7.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz7.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 06",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz6.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz6.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1919"
+    },
+    {
+        "name": "Cortezz 05",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz5.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz5.jpg",
+        "downloadable": true,
+        "dimensions": "1079×1920"
+    },
+    {
+        "name": "Cortezz 04",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz4.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz4.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 03",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz3.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz3.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
+    },
+    {
+        "name": "Cortezz 02",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz2.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz2.jpg",
+        "downloadable": true,
+        "dimensions": "886×1920"
+    },
+    {
+        "name": "Cortezz 01",
+        "author": "Cortezz",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Cortezz1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Cortezz1.jpg",
+        "downloadable": true,
+        "dimensions": "1080×1920"
     }
 ]
