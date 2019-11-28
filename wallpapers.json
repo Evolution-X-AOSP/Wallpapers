@@ -1,4 +1,20 @@
 [{
+        "name": "Wavy (Dark)",
+        "author": "Wenlin Shen",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavyDark.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/WavyDark.jpg",
+        "downloadable": true,
+        "dimensions": "1280×2560"
+    },
+	{
+        "name": "Wavy (Dark)",
+        "author": "Wenlin Shen",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavyLight.png",
+        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/WavyLight.jpg",
+        "downloadable": true,
+        "dimensions": "1280×2560"
+    },
+	{
         "name": "The Evolution (Dark)",
         "author": "Tantriudz",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Dark.png",
