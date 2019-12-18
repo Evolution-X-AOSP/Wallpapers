@@ -2,7 +2,6 @@
         "name": "Wavy (Dark)",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavyDark.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/WavyDark.jpg",
         "downloadable": true,
         "dimensions": "1280×2560"
     },
@@ -10,7 +9,6 @@
         "name": "Wavy Light",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavyLight.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/WavyLight.jpg",
         "downloadable": true,
         "dimensions": "1280×2560"
     },
@@ -18,7 +16,6 @@
         "name": "The Evolution (Dark)",
         "author": "Tantriudz",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Dark.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Evo-X_2.0_Dark.jpg",
         "downloadable": true,
         "dimensions": "1440×2960"
     },
@@ -26,7 +23,6 @@
         "name": "The Evolution (Light)",
         "author": "Tantriudz",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Light.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Evo-X_2.0_Light.jpg",
         "downloadable": true,
         "dimensions": "1440×2960"
     },
@@ -34,7 +30,6 @@
         "name": "Shape (Dark)",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapeDark.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/ShapeDark.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
@@ -43,7 +38,6 @@
         "name": "Shape (Light)",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Shape.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Shape.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
@@ -52,7 +46,6 @@
         "name": "Font Alt (Dark)",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontAltDark.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/FontAltDark.jpg",
         "downloadable": true,
         "dimensions": "2160×3840",
         "copyright": "CC BY-SA 4.0"
@@ -61,7 +54,6 @@
         "name": "Font (Dark)",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontDark.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/FontDark.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
@@ -70,7 +62,6 @@
         "name": "Font (Light)",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Font.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Font.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
@@ -79,7 +70,6 @@
         "name": "Neon",
         "author": "Wenlin Shen",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Neon.png",
-        "thumbnail": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/thumbnails/Neon.jpg",
         "downloadable": true,
         "dimensions": "2160×4492",
         "copyright": "CC BY-SA 4.0"
