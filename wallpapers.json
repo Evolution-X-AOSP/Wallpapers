@@ -1,4 +1,24 @@
 [{
+        "name": "Waves (Blue)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-Blue.png",
+        "downloadable": true,
+        "dimensions": "2560×2560"
+    },
+	{
+        "name": "Waves (Light)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-Light.png",
+        "downloadable": true,
+        "dimensions": "2560×2560"
+    },
+	{
+        "name": "Waves (Dark)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-Dark.png",
+        "downloadable": true,
+        "dimensions": "2560×2560"
+    },
 	{
         "name": "Yellow Light",
         "author": "RHLSKI",
