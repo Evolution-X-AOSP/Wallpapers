@@ -1,26 +1,33 @@
 [{
-        "name": "Waves (Blue)",
+        "name": "Waves 2 (Blue)",
         "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-Blue.png",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Blue.png",
         "downloadable": true,
-        "dimensions": "2560×2560"
+        "dimensions": "1440×2560"
     },
 	{
-        "name": "Waves (Light)",
+        "name": "Waves 2 (Light)",
         "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-Light.png",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Light.png",
         "downloadable": true,
-        "dimensions": "2560×2560"
+        "dimensions": "1440×2560"
     },
 	{
-        "name": "Waves (Dark)",
+        "name": "Waves 2 (Dark)",
         "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-Dark.png",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Dark.png",
         "downloadable": true,
-        "dimensions": "2560×2560"
+        "dimensions": "1440×2560"
     },
 	{
-        "name": "Reveal (Blue Gradient)",
+        "name": "Waves 2 (Black)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Black.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
+        "name": "Reveal (Blue)",
         "author": "ecnivtwelve",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Letters-Reveal-Blue.png",
         "downloadable": true,
