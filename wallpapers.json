@@ -1,4 +1,32 @@
 [{
+        "name": "New Waves 2 (Blue)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Blue.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
+        "name": "New Waves 2 (Light)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Light.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
+        "name": "New Waves 2 (Dark)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Dark.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
+        "name": "New Waves 2 (Black)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Black.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
         "name": "Waves 2 (Blue)",
         "author": "ecnivtwelve",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Blue.png",
