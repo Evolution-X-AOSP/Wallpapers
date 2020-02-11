@@ -1,4 +1,18 @@
 [{
+        "name": "Roundness (Light)",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Roundness-Light.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
+        "name": "Roundness",
+        "author": "ecnivtwelve",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Roundness.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+	{
         "name": "New Waves 2 (Blue)",
         "author": "ecnivtwelve",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Blue.png",
