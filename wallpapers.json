@@ -1,4 +1,32 @@
 [{
+        "name": "Radiant (Font)",
+        "author": "tomfairey",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Font.png",
+        "downloadable": true,
+        "dimensions": "2160×3840"
+    },
+    {
+        "name": "Radiant (Dark)",
+        "author": "tomfairey",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Dark.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+    {
+        "name": "Radiant (Light)",
+        "author": "tomfairey",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Light.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+    {
+        "name": "Radiant (Light)",
+        "author": "tomfairey",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Roundness-Light.png",
+        "downloadable": true,
+        "dimensions": "1440×2560"
+    },
+    {
         "name": "Roundness (Light)",
         "author": "ecnivtwelve",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Roundness-Light.png",
