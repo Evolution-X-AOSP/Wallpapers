@@ -1,4 +1,46 @@
 [{
+        "name": "Shapes Dark Filled",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesDarkFilled.png",
+        "downloadable": true,
+        "dimensions": "1080x2280"
+    },
+    {
+        "name": "Shapes Dark Outline",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesDarkOutline.png",
+        "downloadable": true,
+        "dimensions": "1080x2280"
+    },
+    {
+        "name": "Shapes Light Filled",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesLightFilled.png",
+        "downloadable": true,
+        "dimensions": "1080x2280"
+    },
+    {
+        "name": "Shapes Light Outline",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesLightOutline.png",
+        "downloadable": true,
+        "dimensions": "1080x2280"
+    },
+    {
+        "name": "Cypher Dark",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/CypherDark.png",
+        "downloadable": true,
+        "dimensions": "1080x2280"
+    },
+    {
+        "name": "Cypher Light",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/CypherLight.png",
+        "downloadable": true,
+        "dimensions": "1080x2280"
+    },
+    {
         "name": "Radiant (Font)",
         "author": "tomfairey",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Font.png",
