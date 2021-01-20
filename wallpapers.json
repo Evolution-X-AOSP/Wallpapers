@@ -1,4 +1,74 @@
 [{
+        "name": "LightBasicX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/BasicXLight.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "DarkBasicX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/BasicXDark.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "LightCoralX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/CoralXLight.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "DarkCoralX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/CoralXDark.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "LightLavenderX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LavenderXLight.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "DarkLavenderX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LavenderXDark.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "LightLimeX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LimeXLight.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "DarkLimeX",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LimeXDark.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "Frosted Day",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FrostedDay.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
+        "name": "Frosted Night",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FrostedNight.png",
+        "downloadable": true,
+        "dimensions": "3000x3000"
+    },
+	{
         "name": "Eve of the Evolver",
         "author": "Daniel Myslivets",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/evolverseve.png",
