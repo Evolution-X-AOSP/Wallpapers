@@ -1,4 +1,32 @@
 [{
+        "name": "Lone Nights (Lost Focus)",
+        "author": "Bounty & Daniel Myslivets",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LostFocus.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },    
+    {
+        "name": "Lone Nights (Walkie Talkie)",
+        "author": "Bounty & Daniel Myslivets",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WalkieTalkie.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },    
+    {
+        "name": "Lone Nights (Heatway)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Heatway.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },    
+    {
+        "name": "Lone Nights (Light in Night)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightInNight.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
         "name": "Eve of the Evolver",
         "author": "Daniel Myslivets",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/evolverseve.png",
