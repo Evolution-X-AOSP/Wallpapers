@@ -111,6 +111,13 @@
         "dimensions": "1080x2280"
     },
     {
+        "name": "Radiance (Remix)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/RadianceRemix.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
         "name": "Radiant (Font)",
         "author": "tomfairey",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Font.png",
