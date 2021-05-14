@@ -1,4 +1,46 @@
 [{
+        "name": "NEO Blue",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/neoblue.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "NEO Dark",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/neodark.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "NEO Red",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/neored.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Lone Nights (Hexagon Symmetry)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/hexagonsymmetry.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Lone Nights (Starway)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/starway.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Lone Nights (Sunlines)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/sunlines.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
         "name": "Lone Nights (Anime Canal)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/AnimeCanal.png",
