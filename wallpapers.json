@@ -1,89 +1,117 @@
 [{
-        "name": "Lone Nights |Anime Canal|",
+        "name": "NEO Blue",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/neoblue.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "NEO Dark",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/neodark.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "NEO Red",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/neored.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Lone Nights (Hexagon Symmetry)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/hexagonsymmetry.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Lone Nights (Starway)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/starway.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Lone Nights (Sunlines)",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/sunlines.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Lone Nights (Anime Canal)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/AnimeCanal.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Black Mirrors|",
+        "name": "Lone Nights (Black Mirrors)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/BlackMirrors.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Frame Tight|",
+        "name": "Lone Nights (Frame Tight)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FrameTight.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Live or Die|",
+        "name": "Lone Nights (Live or Die)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LiveOrDie.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Pain Stain|",
+        "name": "Lone Nights (Pain Stain)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/PainStain.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Wave Haven|",
+        "name": "Lone Nights (Wave Haven)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WaveHaven.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Within Pipeline|",
+        "name": "Lone Nights (Within Pipeline)",
         "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Within Pipeline.png",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WithinPipeline.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights (Walkie Talkie)",
-        "author": "Bounty & Daniel Myslivets",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WalkieTalkie.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Lone Nights |Walkie Talkie|",
-        "author": "Bounty and Daniel Myslivets",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WalkieTalkie.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Lone Nights |Lost Focus|",
+        "name": "Lone Nights (Lost Focus)",
         "author": "Bounty and Daniel Myslivets",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LostFocus.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },    
     {
-        "name": "Lone Nights |Walkie Talkie|",
+        "name": "Lone Nights (Walkie Talkie)",
         "author": "Bounty and Daniel Myslivets",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WalkieTalkie.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },    
     {
-        "name": "Lone Nights |Heatway|",
+        "name": "Lone Nights (Heatway)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Heatway.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },    
     {
-        "name": "Lone Nights |Light in Night|",
+        "name": "Lone Nights (Light in Night)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightInNight.png",
         "downloadable": true,
@@ -97,35 +125,35 @@
         "dimensions": "3870x2250"
     },
     {
-        "name": "Lone Nights |Chillspace|",
+        "name": "Lone Nights (Chillspace)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/chillspace.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Firefly|",
+        "name": "Lone Nights (Firefly)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/firefly.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Mistletoe|",
+        "name": "Lone Nights (Mistletoe)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/mistletoe.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Remainder|",
+        "name": "Lone Nights (Remainder)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/remainder.png",
         "downloadable": true,
         "dimensions": "2880x5120"
     },
     {
-        "name": "Lone Nights |Starlight|",
+        "name": "Lone Nights (Starlight)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/starlight.png",
         "downloadable": true,
@@ -174,7 +202,7 @@
         "dimensions": "1080x2280"
     },
     {
-        "name": "Radiance |Remix|",
+        "name": "Radiance (Remix)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/RadianceRemix.png",
         "downloadable": true,
@@ -321,7 +349,7 @@
         "dimensions": "1440×2960"
     },
     {
-        "name": "Shape Dark |Remixed|",
+        "name": "Shape Dark (Remixed)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesDarkRemake.png",
         "downloadable": true,
@@ -336,7 +364,7 @@
         "copyright": "CC BY-SA 4.0"
     },
     {
-        "name": "Shape Light |Remixed|",
+        "name": "Shape Light (Remixed)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesLightRemake.png",
         "downloadable": true,
@@ -359,7 +387,7 @@
         "copyright": "CC BY-SA 4.0"
     },
     {
-        "name": "Font Dark |Remixed|",
+        "name": "Font Dark (Remixed)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontDarkRemake.png",
         "downloadable": true,
@@ -374,7 +402,7 @@
         "copyright": "CC BY-SA 4.0"
     },
     {
-        "name": "Font Light |Remixed|",
+        "name": "Font Light (Remixed)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontLightRemake.png",
         "downloadable": true,
@@ -389,7 +417,7 @@
         "copyright": "CC BY-SA 4.0"
     },
     {
-        "name": "Neon |Remixed|",
+        "name": "Neon (Remixed)",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/NeonRemake.png",
         "downloadable": true,
