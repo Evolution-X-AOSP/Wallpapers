@@ -1,4 +1,46 @@
 [{
+        "name": "Clouds",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Clouds.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Dunes",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Dunes.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Leaves",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Leaves.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Sakura",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Sakura.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Stone",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Stone.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
+        "name": "Sunset",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Sunset.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
         "name": "NEO Blue",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/neoblue.png",
