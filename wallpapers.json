@@ -1,4 +1,18 @@
 [{
+        "name": "Glass Waves 1",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/GlassWaves-1.png",
+        "downloadable": true,
+        "dimensions": "1440x2560"
+    },
+    {
+        "name": "Glass Waves 2",
+        "author": "Bounty",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/GlassWaves-2.png",
+        "downloadable": true,
+        "dimensions": "1440x2560"
+    },
+    {
         "name": "Clouds",
         "author": "Bounty",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Clouds.png",
