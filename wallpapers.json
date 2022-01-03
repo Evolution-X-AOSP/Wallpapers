@@ -1,4 +1,11 @@
 [{
+        "name": "System",
+        "author": "Afon Kulikov",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/System.png",
+        "downloadable": true,
+        "dimensions": "2880x5120"
+    },
+    {
         "name": "Eve of the Evolver",
         "author": "Daniel Myslivets",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/evolverseve.png",
