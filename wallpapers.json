@@ -1,4 +1,11 @@
 [{
+        "name": "System Two",
+        "author": "Afon Kulikov",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/SystemTwo.png",
+        "downloadable": true,
+        "dimensions": "1843x4096"
+    },
+ 	{
         "name": "System",
         "author": "Afon Kulikov",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/System.png",
