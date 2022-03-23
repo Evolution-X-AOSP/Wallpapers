@@ -1,5 +1,11 @@
-[
-    {
+[{
+        "name": "Darker",
+        "author": "Afon Kulikov",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/.png",
+        "downloadable": true,
+        "dimensions": "922x2048"
+    },
+	{
         "name": "BasicallyBlue",
         "author": "Mohd Shafiq Khan (AmaanCG)",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/BasicallyBlue.png",
