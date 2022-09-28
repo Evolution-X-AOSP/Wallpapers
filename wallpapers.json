@@ -1,4 +1,117 @@
-[{
+[
+    {
+        "name": "Black",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Black.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "DarkBluePastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkBluePastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "DarkGreenPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkGreenPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "DarkGrey",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkGrey.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "DarkPinkPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkPinkPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "DarkPurplePastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkPurplePastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "DarkRedPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkRedPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "DarkYellowPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkYellowPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "LightBluePastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightBluePastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "LightGreenPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightGreenPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "LightGrey",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightGrey.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "LightPinkPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightPinkPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "LightPurplePastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightPurplePastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "LightRedPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightRedPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "LightYellowPastel",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightYellowPastel.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
+        "name": "White",
+        "author": "Arber Tusha",
+        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/White.png",
+        "downloadable": true,
+        "dimensions": "1844x4096"
+    },
+    {
         "name": "Darker",
         "author": "Afon Kulikov",
         "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Darker.png",
